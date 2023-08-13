@@ -5,7 +5,7 @@ public class TestNgSample {
     void setup()
     {
         System.out.printf("i am here");
-        System.out.printf("i am here");
+        System.out.printf("i am here"); System.out.printf("i am here");
     }
 
 }
